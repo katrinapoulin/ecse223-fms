@@ -5,4 +5,4 @@ Hello hello! A few reminders:
 * Make sure you have the Cucumber and Gradle Buildship extensions in Eclipse
 * Do not forget to document your code using Javadoc (/**) !!
 
-Solutions are available in the 'post-t8' branch.
+Solutions are available in the [post-t8](https://github.com/katrinapoulin/ecse223-fms/tree/post-t8) branch.
